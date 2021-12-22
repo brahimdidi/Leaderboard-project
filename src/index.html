@@ -10,7 +10,7 @@
     <h1 class="title">Leaderboard</h1>
     <div class="container">
     <div class="list-container">
-        <h2 class="recent-score">Recent score<button class="refresh"></button></h2>
+        <div class="rs-div"> <h2 class="recent-scores">Recent  scores</h2><button class="refresh">refresh</button></div>
         <ul class="rs-list">
             <li class="name-score">name: 34</li>
             <li class="name-score">name: 34</li>
@@ -22,12 +22,15 @@
             <li class="name-score">name: 34</li>
         </ul>
     </div>
-    <form class="add-score">
+    <form class="form">
+        <h3 class="add-your-score">add your score </h3>
         <label for="name"></label>
         <input type="text" id="name" placeholder="your name" class="name-input"  required>
         <label for="score"></label>
         <input type="text" id="score" placeholder="your name" class="score-input"  required>
+        <button type="submit" class="submit">submit</button>
     </form>
 </div>
+<footer class="footer"></footer>
 </body>
 </html>
