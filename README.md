@@ -59,7 +59,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/brahimdidi)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@twitterhandle](https://twitter.com/brahimdidi)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
