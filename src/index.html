@@ -13,21 +13,14 @@
         <div class="rs-div"> <h2 class="recent-scores">Recent  scores</h2><button class="refresh">refresh</button></div>
         <ul class="rs-list">
             <li class="name-score">name: 34</li>
-            <li class="name-score">name: 34</li>
-            <li class="name-score">name: 34</li>
-            <li class="name-score">name: 34</li>
-            <li class="name-score">name: 34</li>
-            <li class="name-score">name: 34</li>
-            <li class="name-score">name: 34</li>
-            <li class="name-score">name: 34</li>
         </ul>
     </div>
     <form class="form">
         <h3 class="add-your-score">add your score </h3>
         <label for="name"></label>
-        <input type="text" id="name" placeholder="your name" class="name-input"  required>
+        <input type="text" id="name" placeholder="your name" class="name-input" minlength="3"  required>
         <label for="score"></label>
-        <input type="text" id="score" placeholder="your name" class="score-input"  required>
+        <input type="number" id="score" placeholder="your score" class="score-input"   required>
         <button type="submit" class="submit">submit</button>
     </form>
 </div>
