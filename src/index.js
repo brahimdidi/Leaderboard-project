@@ -39,7 +39,7 @@ const display = async () => {
   listContainer.innerHTML = '';
   const data = await getResults();
   const myList = data.map((item) => {
-    const listItems = `<li class="name-score"><p>${item.user}:</p> <p>${item.score}</p></li>`;
+    const listItems = `<li class="name-score"><p>${item.user} : </p> <p> ${item.score}</p></li>`;
     return listItems;
   });
   listContainer.innerHTML = myList.join('');
