@@ -18,7 +18,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://brahimdidi.github.io/Leaderboard-project/)
+[Live Demo Link](https://brahimdidi.github.io/Leaderboard-project/dist/)
 
 
 ## Getting Started
