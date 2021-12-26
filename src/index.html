@@ -11,11 +11,7 @@
 </head>
 <body>
     <h1 class="title">Leaderboard</h1>
-    <div class="container">
-    <div class="list-container">
-        <div class="rs-div"> <h2 class="recent-scores">Recent  scores</h2><button class="refresh">refresh</button></div>
-        <ul class="rs-list"></ul>
-    </div>
+    <main id="main">
     <form class="form">
         <h3 class="add-your-score">add your score </h3>
         <label for="name"></label>
@@ -24,7 +20,13 @@
         <input type="number" id="score" placeholder="your score" class="score-input"   required>
         <button type="submit" class="submit">submit</button>
     </form>
+    <div class="container">
+    <div class="list-container">
+        <div class="rs-div"> <h2 class="recent-scores">Recent  scores</h2><button class="refresh">refresh</button></div>
+        <ul class="rs-list"></ul>
+    </div>
 </div>
+</main>
 <footer class="footer"><h1 class="bamo">Bamo Project All rights reserved</h1></footer>
 </body>
 </html>
