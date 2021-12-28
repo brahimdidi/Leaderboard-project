@@ -201,7 +201,7 @@ input::placeholder {
   }
 }
 
-@media screen  and (max-width: 700px) {
+@media screen  and (max-width: 730px) {
   #main {
     flex-direction: column;
     width: 90%;
@@ -218,6 +218,11 @@ input::placeholder {
     flex-direction: column;
     width: 100%;
     gap: 3%;
+    height: auto;
+    max-height: unset;
+    margin: 0 auto;
+    margin-top: 14% !important;
+    margin-bottom: 20px;
   }
 
   .list-container {
@@ -231,6 +236,7 @@ input::placeholder {
   .form {
     width: 80%;
     margin: 0 auto;
+    max-height: unset !important;
   }
 
   .recent-scores,
@@ -262,15 +268,9 @@ input::placeholder {
   }
 }
 
-@media screen and (max-height: 840px) {
-  .title {
-    margin-top: 1%;
-    padding: 1%;
-    font-size: 2.2rem;
-  }
-
-  .container {
-    margin-top: 1%;
+@media screen and (max-height: 750px) {
+  .footer {
+    display: none;
   }
 }
 
@@ -294,5 +294,21 @@ input::placeholder {
 
   .form {
     gap: 10px;
+  }
+}
+
+@media screen and (max-height: 900px) {
+  .title {
+    margin-top: 1%;
+    padding: 1%;
+    font-size: 2.4rem;
+  }
+
+  .container {
+    margin-top: 1%;
+  }
+
+  .rs-list {
+    max-height: 500px;
   }
 }
