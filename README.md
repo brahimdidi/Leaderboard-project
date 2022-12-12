@@ -1,22 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Leaderboard 
 
-> One paragraph statement about the project.
+> This  leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://i.ibb.co/TMXG0CG/Screenshot-71.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages Html:  , css , javascript
+- Frameworks:  webpack
+- Technologies used:  vscode, git
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://brahimdidi.github.io/Leaderboard-project/dist/)
 
 
 ## Getting Started
@@ -29,9 +29,20 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+ Web browser (choose what you prefered)
+- Code editor
 ### Setup
+ Download the repo, if you don't know how to do it,  [click here](git@github.com:brahimdidi/Leaderboard-project.git)!<br>
+	##### open the dist folder and run index.html file using your browser! 
+	#### In the terminal, type: <br>
+- <code>git clone git@github.com:Marcraphael12/Leaderboard.git</code>
+- <code>cd Leaderboard</code>
+- <code>git checkout master</code>
 
 ### Install
+### After switching to the branch follow these steps to run the server <br>
+- Run <code>npm init -y</code> To init NPM localy
+- Run <code>npm start</code> To start the webpack sever
 
 ### Usage
 
@@ -45,15 +56,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@brahimdidi](https://github.com/brahimdidi)
+- Twitter: [@brahimdidi](https://twitter.com/brahimdidi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/brahimdidi)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
