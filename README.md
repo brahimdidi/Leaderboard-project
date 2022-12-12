@@ -6,7 +6,7 @@
 
 .
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://i.ibb.co/TMXG0CG/Screenshot-71.png)
 
 Additional description about the project and its features.
 
@@ -14,7 +14,7 @@ Additional description about the project and its features.
 
 - Major languages Html:  , css , javascript
 - Frameworks:  webpack
-- Technologies used:  vscode
+- Technologies used:  vscode, git
 
 ## Live Demo
 
@@ -58,9 +58,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/brahimdidi)
-- Twitter: [@twitterhandle](https://twitter.com/brahimdidi)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@brahimdidi](https://github.com/brahimdidi)
+- Twitter: [@brahimdidi](https://twitter.com/brahimdidi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/brahimdidi)
 
 
 ## 🤝 Contributing
