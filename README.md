@@ -1,10 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Leaderboard 
 
 > This  leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
-
-.
 
 ![screenshot](https://i.ibb.co/TMXG0CG/Screenshot-71.png)
 
@@ -39,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 	#### In the terminal, type: <br>
 - <code>git clone git@github.com:Marcraphael12/Leaderboard.git</code>
 - <code>cd Leaderboard</code>
-- <code>git checkout -b create-layout</code>
+- <code>git checkout master</code>
 
 ### Install
 ### After switching to the branch follow these steps to run the server <br>
